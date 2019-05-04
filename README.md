@@ -2,7 +2,7 @@
 
 For all those who gets irritated with all the ads from torrent sites for just to search the favourite movie, games, applications and hell alot many things. Just phase through all the pop ups and gets your loving content in front of you by downloading this.
 
-For windows: [torrent search](https://github.com/karu007/TORRENT_SEARCH/blob/master/python/torrent_search.exe?raw=true)
+For windows: [torrent search](https://github.com/karu007/TORRENT_SEARCH/blob/master/python/TorrentSearch.exe?raw=true)
 
 ## For developers 
 
